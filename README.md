@@ -2,19 +2,32 @@
 <h3 align="center">CSE Student | AI & ML Enthusiast | Building Intelligent Solutions</h3>
 ---
 
-# 💫 About Me
+<h2 align="center">💫 About Me</h2>
 
-I’m a Computer Science and Engineering student at **Malla Reddy Engineering College for Women** with a strong academic record (**CGPA: 9.2**) and a passion for building intelligent, impactful solutions.
+<p align="justify">
+I’m a Computer Science and Engineering student at <b>Malla Reddy Engineering College for Women</b> with a strong academic record (<b>CGPA: 9.2</b>) and a passion for building intelligent, impactful solutions.
 
-My core interests lie in **Artificial Intelligence, Machine Learning, Data Science, LLMs, and AI agents**. I’m particularly interested in developing systems that solve real-world problems through automation, data-driven insights, and intelligent decision-making.
+<br><br>
 
-Recently, I completed an **AI Azure internship** through a Microsoft initiative implemented by **Edunet Foundation**, where I gained hands-on experience working on industry-relevant projects. This opportunity strengthened my technical foundation, improved my problem-solving abilities, and deepened my interest in building practical AI-driven solutions.
+My core interests lie in <b>Artificial Intelligence, Machine Learning, Data Science, LLMs, and AI agents</b>. I’m particularly interested in developing systems that solve real-world problems through automation, data-driven insights, and intelligent decision-making.
+
+<br><br>
+
+Recently, I completed an <b>AI Azure internship</b> through a Microsoft initiative implemented by <b>Edunet Foundation</b>, where I gained hands-on experience working on industry-relevant projects. This opportunity strengthened my technical foundation, improved my problem-solving abilities, and deepened my interest in building practical AI-driven solutions.
+
+<br><br>
 
 I actively focus on building real-world projects that help me apply concepts in machine learning, data analysis, and intelligent systems. I enjoy exploring new tools, frameworks, and technologies that expand my knowledge and keep me aligned with evolving industry trends.
 
-Along with technical skills, I value **communication, teamwork, adaptability, and leadership**. Participating in hackathons and collaborative projects has helped me build confidence, take initiative, and perform effectively in fast-paced environments.
+<br><br>
+
+Along with technical skills, I value <b>communication, teamwork, adaptability, and leadership</b>. Participating in hackathons and collaborative projects has helped me build confidence, take initiative, and perform effectively in fast-paced environments.
+
+<br><br>
 
 I’m eager to contribute to innovative teams, take on challenging opportunities, and build solutions that create real value while growing as a future software and AI professional.
+</p>
+
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
