@@ -1,6 +1,12 @@
 # 💫 About Me:
 I’m a Computer Science and Engineering student at Malla Reddy Engineering College for Women with a strong academic record (CGPA: 9.2) and a passion for building intelligent, impactful solutions.<br><br>My core interests lie in Artificial Intelligence, Machine Learning, Data Science, and emerging technologies like LLMs and AI agents. I’m particularly interested in developing systems that solve real-world problems through automation, data-driven insights, and intelligent decision-making.<br><br>Recently, I completed an AI Azure internship through a Microsoft initiative implemented by Edunet Foundation, where I gained hands-on experience working on industry-relevant projects. This opportunity strengthened my technical foundation, improved my problem-solving abilities, and deepened my interest in building practical AI-driven solutions.<br><br>I actively focus on building real-world projects that help me apply concepts in machine learning, data analysis, and intelligent systems. I enjoy exploring new tools, frameworks, and technologies that expand my knowledge and keep me aligned with the latest industry trends.<br><br>Along with technical skills, I value strong communication, teamwork, adaptability, and leadership. Participating in hackathons and collaborative projects has helped me develop the confidence to take initiative, work effectively in teams, and perform well in fast-paced environments.<br><br>I’m a curious learner who believes in continuous growth, hands-on experience, and creating meaningful impact through technology. I’m eager to contribute to innovative teams, take on challenging opportunities, and build solutions that create real value while growing as a future software and AI professional.<br>
 
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dharani_pulkaram) 
