@@ -8,11 +8,14 @@ I’m a Computer Science and Engineering student at Malla Reddy Engineering Coll
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaniPulkaram7&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 <div align="center">
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dharani_pulkaram) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-pulkaram)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=boulgGobH0E)
+
 </div>
+
 # 💻 Tech Stack:
 <div align="center">
 
