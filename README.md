@@ -51,9 +51,10 @@ I’m eager to contribute to innovative teams, take on challenging opportunities
 
 
 <!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DharaniPulkaram7/DharaniPulkaram7/output/github-snake-dark.svg" alt="snake animation" />
-</p>
+<div align="center">
+    
+  ![snake gif](https://github.com/DharaniPulkaram7/DharaniPulkaram7/blob/output/github-snake-dark.svg)
+</div>
 
 # 📊 GitHub Stats:
 
