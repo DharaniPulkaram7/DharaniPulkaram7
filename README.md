@@ -5,7 +5,27 @@
 <h2 align="center">💫 About Me</h2>
 
 <p align="justify">
-I’m a Computer Science and Engineering student at <b>Malla Reddy Engineering College for Women</b> with a strong academic record (<b>CGPA: 9.2</b>) and a passion for building intelligent, impactful solutions. My core interests lie in <b>Artificial Intelligence, Machine Learning, Data Science, LLMs, and AI agents</b>. I’m particularly interested in developing systems that solve real-world problems through automation, data-driven insights, and intelligent decision-making. Recently, I completed an <b>AI Azure internship</b> through a Microsoft initiative implemented by <b>Edunet Foundation</b>, where I gained hands-on experience working on industry-relevant projects. This opportunity strengthened my technical foundation, improved my problem-solving abilities, and deepened my interest in building practical AI-driven solutions. I actively focus on building real-world projects that help me apply concepts in machine learning, data analysis, and intelligent systems. I enjoy exploring new tools, frameworks, and technologies that expand my knowledge and keep me aligned with evolving industry trends. Along with technical skills, I value <b>communication, teamwork, adaptability, and leadership</b>. Participating in hackathons and collaborative projects has helped me build confidence, take initiative, and perform effectively in fast-paced environments. I’m eager to contribute to innovative teams, take on challenging opportunities, and build solutions that create real value while growing as a future software and AI professional.
+I’m a Computer Science and Engineering student at <b>Malla Reddy Engineering College for Women</b> with a strong academic record (<b>CGPA: 9.2</b>) and a passion for building intelligent, impactful solutions.
+</p>
+
+<p align="justify">
+My core interests lie in <b>Artificial Intelligence, Machine Learning, Data Science, LLMs, and AI agents</b>. I’m particularly interested in developing systems that solve real-world problems through automation, data-driven insights, and intelligent decision-making.
+</p>
+
+<p align="justify">
+Recently, I completed an <b>AI Azure internship</b> through a Microsoft initiative implemented by <b>Edunet Foundation</b>, where I gained hands-on experience working on industry-relevant projects. This opportunity strengthened my technical foundation, improved my problem-solving abilities, and deepened my interest in building practical AI-driven solutions.
+</p>
+
+<p align="justify">
+I actively focus on building real-world projects that help me apply concepts in machine learning, data analysis, and intelligent systems. I enjoy exploring new tools, frameworks, and technologies that expand my knowledge and keep me aligned with evolving industry trends.
+</p>
+
+<p align="justify">
+Along with technical skills, I value <b>communication, teamwork, adaptability, and leadership</b>. Participating in hackathons and collaborative projects has helped me build confidence, take initiative, and perform effectively in fast-paced environments.
+</p>
+
+<p align="justify">
+I’m eager to contribute to innovative teams, take on challenging opportunities, and build solutions that create real value while growing as a future software and AI professional.
 </p>
 
 <!-- Stats -->
