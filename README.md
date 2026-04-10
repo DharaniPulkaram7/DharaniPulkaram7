@@ -32,7 +32,7 @@ I’m a Computer Science and Engineering student at Malla Reddy Engineering Coll
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/DharaniPulkaram7/DharaniPulkaram7/blob/output/github-snake-dark.svg)
 </div>
 
 
@@ -40,6 +40,6 @@ I’m a Computer Science and Engineering student at Malla Reddy Engineering Coll
 <!-- Visit Counter -->
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=DharaniPulkaram7&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
