@@ -36,7 +36,7 @@ I’m eager to contribute to innovative teams, take on challenging opportunities
 <div align="center">
   <h2 align="center">🌐 Socials</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dharani_pulkaram) 
+[![Instagram](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://instagram.com/dharani_pulkaram) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-pulkaram)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=boulgGobH0E)
 
